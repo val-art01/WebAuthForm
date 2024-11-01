@@ -2,7 +2,7 @@
 
 ## Aperçu
    ![Aperçu du projet](./image/ime1.png)
-   ![Aperçu du projet](./image/ime2.png)
+
 
 ## Description
 
@@ -37,3 +37,6 @@ Ce projet est destiné à des fins éducatives et respecte les principes d'utili
 
 ## License
 Ce projet est à des fins éducatives et respecte la clause de non-responsabilité concernant les droits d'auteur. Veuillez consulter la vidéo d'origine pour plus de détails.
+
+##
+![ ](./image/ime2.png)
